@@ -1,5 +1,10 @@
  JLayer 1.0.1
  JavaZOOM 1999-2008
+ 
+ note:
+ - To seek music backward, just reopen it and use skipMilliSeconds(int milliSeconds) method.
+ - setVolume(float volume) only works when music is playing. It accepts from -80.0dB to 6.0dB.
+ 
 
  Project Homepage :
    http://www.javazoom.net/javalayer/javalayer.html 
